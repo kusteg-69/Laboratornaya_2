@@ -45,11 +45,7 @@ namespace ConsoleApp5
                 }
                 
             }
-            else
-            {
-                Console.WriteLine("Извините, но такой папки не существует");
-                  
-            }
+    
           
 
             
